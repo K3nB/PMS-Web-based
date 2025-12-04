@@ -8,7 +8,7 @@ Frontend is a single-page web app (HTML/CSS/JS), backend is **Google Apps Script
 > Designed for: small factories / MSMEs that want simple production tracking without a full ERP.
 
 ---
-
+### 🔗 Web page link : [Click here](https://script.google.com/macros/s/AKfycbzbRRRKfUHErRTmnmRAc6I2Wv3Zr7H1iL8e8IlqyChMftx_R9_Zw2NeCdOCCrUE8Vs/exec)
 ## ✨ Features
 
 - 📦 **Product Master**
